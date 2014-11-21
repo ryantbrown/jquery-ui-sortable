@@ -6,7 +6,7 @@
     "Ryan Brown >ryan.brown.916@gmail.com>"
   ],
   "description": "jQuery UI Sortable",
-  "main": "./jquery-ui-sortable.min.js",
+  "main": ["./jquery-ui-sortable.min.js","./jquery-ui-sortable.js"],
   "keywords": [
     "jQuery",
     "UI",
